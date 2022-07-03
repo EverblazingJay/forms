@@ -43,7 +43,7 @@
 
 @media(max-width: 770px){
     .input-container{
-        width: 4%;
+        width: 8%;
         padding: 0px;
         margin-right: 10px;
     }
@@ -57,8 +57,8 @@
         padding: 0 2rem;
     }
 
-    .input-container{
+   /* .input-container{
         width: 12%;
         padding: 10px;
-    }
+    }  */
 }
